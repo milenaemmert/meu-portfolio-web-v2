@@ -30,10 +30,6 @@ main {
 	transform: scale(1.1);
 }
 
-.habilidades li:hover {
-	
-}
-
 .habilidades-descricao {
 	font-size: 20px;
 }
