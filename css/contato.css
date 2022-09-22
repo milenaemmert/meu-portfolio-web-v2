@@ -1,0 +1,32 @@
+.contatos {
+	width: 960px;
+	margin: 0 auto 48px;
+}
+
+.contatos ul {
+	list-style: none;
+	width: 600px;
+	margin-right: 113px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.badges {
+	border-radius: 8px;
+	width: 30%;
+	margin-bottom: 8px;
+	height: 48px;
+}
+
+.imagem-contato {
+	width: 240px;
+	vertical-align: middle;
+	animation:spin 6s linear infinite;
+
+}
+
+@keyframes spin { 
+	100% { 
+		transform:rotate(360deg); 
+	} 
+}

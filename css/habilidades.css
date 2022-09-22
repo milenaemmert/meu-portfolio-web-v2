@@ -1,0 +1,40 @@
+main {
+    width: 960px;
+    margin: 0 auto 48px;
+}
+
+.habilidades li {
+	display: inline-block;
+	text-align: center;
+	width: 450px;
+    height: 500px;
+	vertical-align: top;
+    padding: 48px;
+	border: 6px solid #F92672;
+	border-radius: 32px;
+	background-color: #EED8B1;
+	transition: 0.8s all cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.habilidades li:nth-child(1) {
+    margin-right: 53px;
+}
+
+.habilidades li img {
+    width: 224px;
+}
+
+.habilidades li:hover {
+	border-color: #7480E9;
+	background-color: #7480E9;
+	transform: scale(1.1);
+}
+
+.habilidades li:hover {
+	
+}
+
+.habilidades-descricao {
+	font-size: 20px;
+}
+

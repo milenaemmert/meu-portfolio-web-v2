@@ -1,0 +1,62 @@
+.container-banner {
+	background-color: #0F0E0E;
+	text-align: center;
+	padding: 24px;
+	position: relative;
+}
+
+.banner {
+	width: 960px;
+}
+
+.container-banner-link {
+	font-size: 100px;
+	position: absolute;
+	top: 88px;
+	right: 300px;
+	opacity: 0;
+}
+
+.sobre-mim, .coisas-que-gosto  {
+	width: 960px;
+	margin: 48px auto;
+	position: relative;
+}
+
+.imagem-computador {
+	width: 300px;
+	margin-right: 50px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.sobre-mim p {
+	display: inline-block;
+	vertical-align: middle;
+	width: 600px;
+	font-size: 20px;
+	text-align: right;
+}
+
+.coisas-que-gosto ul {
+	width: 500px;
+	margin-right: 80px;
+	display: inline-block;
+	vertical-align: middle;
+	list-style: none;
+}
+
+.lista-gostos  li {
+	font-size: 20px;
+}
+
+.lista-gostos  li::before {
+	content: '⇒ ';
+}
+
+.video {
+	width: 372px;
+	display: inline-block;
+	vertical-align: middle;
+	text-align: right;
+}
