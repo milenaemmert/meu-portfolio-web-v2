@@ -29,7 +29,7 @@ Lembra do site da **Barbearia Alura**? Que você aprende com os cursos de HTML e
 
 <div align="center">
 
->✨ Bons estudos! ✨
+✨ Bons estudos! ✨
 
 <img src="https://c.tenor.com/2cbsM5hnQM8AAAAC/bunny-flower.gif" alt="🐇" width="250">
 
