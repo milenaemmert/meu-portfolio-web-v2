@@ -1,6 +1,19 @@
+# Portfólio.v2 | Barbearia Alura
+
+Um portfólio feito com base no site da Barbearia Alura
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Portfólio - Milena Emmert**
+| :label: Tecnologias | HTML, CSS e Figma
+| :rocket: URL         | https://milenaemmert.github.io/meu-portfolio-web-v2/
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://cdn.discordapp.com/attachments/904892540409503866/1044625672389271582/vitdev.png)
+
 ### Olá, meu povo! ✿乂◕‿◕乂
 
-##### Provavelmente você chegou aqui através do Alura Include 🧐
+##### Provavelmente você chegou aqui através do Alura Include :nerd_face:
 
 <hr>
 
@@ -27,10 +40,12 @@ Lembra do site da **Barbearia Alura**? Que você aprende com os cursos de HTML e
 * Com exceção do uso de *@keyframes* para deixar a imagem girando, não foi usado nada que não foi ensinado nos cursos;
 * Se você não quiser criar suas imagens, você pode utilizar sites de disponibilizam imagens com  licença gratuita para uso pessoal. Alguns exemplos: [Pexels](https://www.pexels.com/pt-br/) e [Unsplash](https://unsplash.com/).
 
+:construction: Alguns detalhes poderiam estar mais bonitinhos, mas a ideia é não fugir muito do conteúdo dos cursos. O ideal é você replicar o que aprendeu e ir aprofundando aos poucos! :smiling_face_with_three_hearts:
+<br><br>
 <div align="center">
 
-✨ Bons estudos! ✨
+:sparkles: Bons estudos! :sparkles:
 
 <img src="https://c.tenor.com/2cbsM5hnQM8AAAAC/bunny-flower.gif" alt="🐇" width="250">
 
-<div>
+</div>
