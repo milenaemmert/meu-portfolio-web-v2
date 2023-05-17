@@ -7,6 +7,9 @@ body {
 	background-color: #EED8B1;
 	letter-spacing: 2px;
 	font-family: 'Montserrat', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .titulos-secundarios {
